@@ -1,4 +1,7 @@
 {
+  "name": "support-challenge",
+  "version": "1.0.0",
+  "description": "",
   "scripts": {
     "start": "node app.js"
   },
